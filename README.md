@@ -10,11 +10,9 @@
   
 - **Foros de Discusión**: Crea y participa en foros sobre una variedad de temas, permitiendo que los usuarios inicien nuevas conversaciones o respondan a publicaciones existentes.
 
-- **Interacción Social**: Los usuarios pueden dar "me gusta" a las publicaciones, comentar y seguir a otros usuarios para recibir actualizaciones sobre sus actividades.
-
-- **Notificaciones**: Recibe notificaciones en tiempo real sobre interacciones importantes, como nuevos comentarios en tus publicaciones o respuestas a tus comentarios.
-
 - **Interfaz Intuitiva**: La aplicación cuenta con una interfaz atractiva y fácil de usar, optimizada para dispositivos móviles.
+
+- **Tema Oscuro**: La aplicación cuenta con una eleccion de tema oscuro o tema claro.
 
 ## Tecnologías Utilizadas
 
