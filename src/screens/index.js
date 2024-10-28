@@ -1,0 +1,10 @@
+export { default as StartScreen } from './StartScreen'
+export { default as LoginScreen } from './LoginScreen'
+export { default as RegisterScreen } from './RegisterScreen'
+export { default as TemasScreen} from './home'
+export { default as TemaScreen} from './tema'
+export { default as CrearTemaScreen} from './newTema'
+export { default as EditTemaScreen} from './editTema'
+export { default as AdminScreen} from './AdminScreen'
+export { default as UserSettings} from './UserSettingsScreen'
+
